@@ -12,7 +12,7 @@ Uploaded PNG of the final design.
 - Includes profile image, name, role, and social links
 
 📅 *Challenge Progress:*
-This is day 01 of my [#100DaysOfCodeAndDesign](https://github.com/adesholafaith) challenge, where I’ll design and code UI components every day.
+This is day 01 of my [#100DaysOfUItoFrontend](https://github.com/adesholafaith) challenge, where I’ll design and code UI components every day.
 
 📂 *Coming Up Next:*  
 Day 02 — Turning this design into a responsive HTML & CSS page.
